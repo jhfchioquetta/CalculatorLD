@@ -1,5 +1,5 @@
-<h1>Calculator with light and dark themes </br>
-Calculadora com temas claro e escuro </h1>
+<h1>- Calculator with light and dark themes -</br>
+- Calculadora com temas claro e escuro -</h1>
 
 <h2>About the project</h2>
 <h3>This section</h3>
